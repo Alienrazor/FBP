@@ -24,4 +24,4 @@ cd FBP
 
 ls
 
-python2 fbp-cpython-310.py
+python fbp-cpython-310.py
